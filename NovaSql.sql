@@ -14,8 +14,8 @@
 
 
 -- Dumping database structure for essentialmode
-CREATE DATABASE IF NOT EXISTS `s4_minecraft_global` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci */;
-USE `s4_minecraft_global`;
+CREATE DATABASE IF NOT EXISTS `s3_FiveM_01` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci */;
+USE `s3_FiveM_01`;
 
 -- Dumping structure for table essentialmode.addon_account
 CREATE TABLE IF NOT EXISTS `addon_account` (
